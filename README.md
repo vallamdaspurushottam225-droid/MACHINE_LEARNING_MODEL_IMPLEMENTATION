@@ -31,3 +31,9 @@ The classification algorithm used in this project was Multinomial Naive Bayes. T
 Finally, the model's performance was evaluated using Accuracy Score. Accuracy measures the percentage of correct predictions made by the model and provides a simple way to assess its effectiveness. By calculating the accuracy score, the performance of the spam email detection system could be verified and analyzed.
 
 Overall, this project provided practical experience in machine learning, text preprocessing, predictive modeling, and performance evaluation. It demonstrated how various tools, editors, and libraries work together to build an intelligent system capable of automatically classifying email messages. The project serves as an excellent introduction to machine learning concepts and highlights the real-world application of predictive analytics in email filtering and cybersecurity.
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/53b68b34-402c-4279-bb4f-dea26e80edba" /> , 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/55985060-8df7-40f9-b0d9-891ea092a5f8" /> ,
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/147bb2cc-76db-483a-9ccb-2e42eaf127d7" />
