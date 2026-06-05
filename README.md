@@ -8,6 +8,8 @@ MACHINE_LEARNING_MODEL_IMPLEMENTATION
 
 *DOMAIN*: PYTHON PROGRAMMING
 
+*DURATION*: 4 WEEKS
+
 *MENTOR*: NEELA SANTHOSH
 
 The Spam Email Detection project was developed using Machine Learning techniques to classify email messages as either spam or ham (normal emails). The main objective of this project was to create a predictive model that can automatically identify unwanted messages based on the content of the email. This project demonstrates the complete machine learning process, including data preparation, preprocessing, model training, prediction, and evaluation.
